@@ -57,7 +57,7 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box | Yes (ssh)           | 97.81.124.188        |
+| Jump Box | Yes (ssh)           | 97.**.***.***        |
 | Web-1    | No                  | ssh from 10.0.0.4    |
 | Web-2    | No                  | ssh from 10.0.0.4    |
 | elk-stack-vm | Yes (http)      | 97.81.124.188        |
