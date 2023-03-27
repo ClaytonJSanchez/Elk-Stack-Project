@@ -1,5 +1,5 @@
 # Elk-Stack-Project
-A project working with cloud secruity, Ansible and Bash cripts, inlcuding a network diagram of my Azure workspace.
+A project working with cloud secruity, Ansible and Bash scripts, inlcuding a network diagram of my Azure workspace.
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
