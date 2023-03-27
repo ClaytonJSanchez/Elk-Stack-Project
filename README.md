@@ -48,10 +48,10 @@ The configuration details of each machine may be found below.
 The machines on the internal network are not exposed to the public Internet. 
 
 Only the Jump-Box-Provisoner machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-- Workstation public IP: 97.81.124.188
+- Workstation public IP: 97.81.1**.1**
 
 Machines within the network can only be accessed by Jump-Box-Provisioner.
-- My workstations front-end IP (97.81.124.188) provided access to my elk-stack-vm through port 5601.
+- My workstations front-end IP (97.81.1**.1**) provided access to my elk-stack-vm through port 5601.
 
 A summary of the access policies in place can be found in the table below.
 
